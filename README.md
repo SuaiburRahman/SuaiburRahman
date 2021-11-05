@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Md. Suaibur Rahman from Bangladesh, and I do content on Machine & Deep learning based project and Development. I really enjoy learning deferent type of programming languages and frameworks like python, Java, HTML and so on. 
+I'm Md. Suaibur Rahman from Bangladesh, and I am working on Machine & Deep learning based project and Development. I really enjoy learning deferent type of programming languages and frameworks like python, Java, HTML and so on.
 
 Skills: Python/ HTML / C+/MATLAB
 
